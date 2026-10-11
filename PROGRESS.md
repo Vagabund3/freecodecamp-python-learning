@@ -4,8 +4,8 @@
 
 - **Прогресс на freeCodeCamp:** 177 / 578 шагов
 - **Последнее обновление:** 2026-10-12
-- **Текущий проект:** Build a Musical Instrument Inventory
-- **Следующее задание:** Build a Planet Class
+- **Последнее завершённое задание:** Build a Musical Instrument Inventory
+- **Следующее задание:** Build a Travel Weather Planner
 
 ## Статусы
 
@@ -162,7 +162,7 @@ The purpose of `self` was initially unclear. It became clearer after comparing i
 
 ### Next assignment
 
-Build a Planet Class — Lab.
+Build a Travel Weather Planner — Lab. Follow the course order and do not skip earlier unfinished assignments.
 
 ## Session protocol
 
