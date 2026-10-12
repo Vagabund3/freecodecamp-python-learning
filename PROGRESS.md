@@ -5,7 +5,7 @@
 - **Прогресс на freeCodeCamp:** 177 / 578 шагов
 - **Последнее обновление:** 2026-10-12
 - **Последнее завершённое задание:** Build a Musical Instrument Inventory
-- **Следующее задание:** Build a Travel Weather Planner
+- **Следующее задание:** Build an Employee Profile Validator
 
 ## Статусы
 
@@ -162,7 +162,7 @@ The purpose of `self` was initially unclear. It became clearer after comparing i
 
 ### Next assignment
 
-Build a Travel Weather Planner — Lab. Follow the course order and do not skip earlier unfinished assignments.
+Build an Employee Profile Validator — Workshop. The course order must be verified against the actual freeCodeCamp sequence; do not jump ahead to Build a Travel Weather Planner or Build a Planet Class.
 
 ## Session protocol
 
