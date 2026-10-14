@@ -3,9 +3,10 @@
 ## Общий прогресс
 
 - **Прогресс на freeCodeCamp:** 177 / 578 шагов
-- **Последнее обновление:** 2026-10-12
+- **Последнее обновление:** 2026-10-15
 - **Последнее завершённое задание:** Build a Musical Instrument Inventory
-- **Следующее задание:** Build an Employee Profile Validator
+- **Текущее задание:** Build an Employee Profile Validator
+- **Следующее задание после завершения:** Build an Employee Profile Validator — Workshop
 
 ## Статусы
 
@@ -22,7 +23,7 @@
 - [x] Build a Report Card Printer — Workshop
 - [ ] Introduction to Strings — Theory
 - [x] Build an Employee Profile Generator — Workshop
-- [ ] Build an Employee Profile Validator — Workshop
+- [~] Build an Employee Profile Validator — Workshop
 - [ ] Numbers and Mathematical Operations — Theory
 - [x] Build a Bill Splitter — Workshop
 - [ ] Booleans and Conditionals — Theory
@@ -148,6 +149,12 @@
 
 Build a Musical Instrument Inventory
 
+### Current project
+
+Build an Employee Profile Validator — Workshop
+
+Current progress: Step 11, using `.upper()` to create `name_badge` from `clean_name`. Continue with the next workshop step; do not mark the project completed until all steps are finished.
+
 ### Concepts covered
 
 - Classes and instances
@@ -155,6 +162,7 @@ Build a Musical Instrument Inventory
 - `self` — accessing the current object's data
 - Attributes and methods
 - Creating instances and calling methods
+- String methods and operations in the Employee Profile Validator: `.find()`, slicing, `in`, `.strip()`, `.title()`, `.lower()`, and `.upper()`
 
 ### Current sticking points
 
@@ -162,7 +170,7 @@ The purpose of `self` was initially unclear. It became clearer after comparing i
 
 ### Next assignment
 
-Build an Employee Profile Validator — Workshop. The course order must be verified against the actual freeCodeCamp sequence; do not jump ahead to Build a Travel Weather Planner or Build a Planet Class.
+Continue Build an Employee Profile Validator — Workshop from the current step. After completing it, continue in the verified freeCodeCamp sequence; do not jump ahead to Build a Travel Weather Planner or Build a Planet Class.
 
 ## Session protocol
 
