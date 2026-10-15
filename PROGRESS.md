@@ -2,11 +2,10 @@
 
 ## Общий прогресс
 
-- **Прогресс на freeCodeCamp:** 177 / 578 шагов
+- **Прогресс на freeCodeCamp:** 213 / 578 шагов
 - **Последнее обновление:** 2026-10-15
-- **Последнее завершённое задание:** Build a Musical Instrument Inventory
-- **Текущее задание:** Build an Employee Profile Validator
-- **Следующее задание после завершения:** Build an Employee Profile Validator — Workshop
+- **Последнее завершённое задание:** Build an Apply Discount Function
+- **Следующее задание:** Build an RPG Character — Lab (Restructure projects into categories)
 
 ## Статусы
 
@@ -16,22 +15,22 @@
 
 Отмечаем завершение только после фактического выполнения задания.
 
-## Python Basics — 101 / 140
+## Python Basics — 137 / 140
 
 - [x] Introduction to Python — Theory
-- [ ] Understanding Variables and Data Types — Theory
+- [x] Understanding Variables and Data Types — Theory
 - [x] Build a Report Card Printer — Workshop
-- [ ] Introduction to Strings — Theory
+- [x] Introduction to Strings — Theory
 - [x] Build an Employee Profile Generator — Workshop
-- [~] Build an Employee Profile Validator — Workshop
-- [ ] Numbers and Mathematical Operations — Theory
+- [x] Build an Employee Profile Validator — Workshop
+- [x] Numbers and Mathematical Operations — Theory
 - [x] Build a Bill Splitter — Workshop
-- [ ] Booleans and Conditionals — Theory
+- [x] Booleans and Conditionals — Theory
 - [x] Build a Movie Ticket Booking Calculator — Workshop
-- [ ] Build a Travel Weather Planner — Lab
-- [ ] Understanding Functions and Scope — Theory
+- [x] Build a Travel Weather Planner — Lab
+- [x] Understanding Functions and Scope — Theory
 - [x] Build a Kitchen Inventory Tracker — Workshop
-- [ ] Build an Apply Discount Function — Lab
+- [x] Build an Apply Discount Function — Lab
 - [x] Build a Caesar Cipher — Workshop
 - [ ] Build an RPG Character — Lab
 - [ ] Python Basics Review — Review
