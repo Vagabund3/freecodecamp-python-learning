@@ -2,10 +2,10 @@
 
 ## Общий прогресс
 
-- **Прогресс на freeCodeCamp:** 213 / 578 шагов
-- **Последнее обновление:** 2026-10-15
-- **Последнее завершённое задание:** Build an Apply Discount Function
-- **Следующее задание:** Build an RPG Character — Lab (Restructure projects into categories)
+- **Прогресс на freeCodeCamp:** 233 / 579 шагов
+- **Последнее обновление:** 2026-10-20
+- **Последнее завершённое задание:** Build a Number Pattern Generator — Lab
+- **Следующее задание:** Build a User Configuration Manager — Certification Project
 
 ## Статусы
 
@@ -15,7 +15,7 @@
 
 Отмечаем завершение только после фактического выполнения задания.
 
-## Python Basics — 137 / 140
+## Python Basics — 140 / 141
 
 - [x] Introduction to Python — Theory
 - [x] Understanding Variables and Data Types — Theory
@@ -32,23 +32,23 @@
 - [x] Build a Kitchen Inventory Tracker — Workshop
 - [x] Build an Apply Discount Function — Lab
 - [x] Build a Caesar Cipher — Workshop
-- [ ] Build an RPG Character — Lab
-- [ ] Python Basics Review — Review
-- [ ] Python Basics Quiz — Quiz
+- [x] Build an RPG Character — Lab
+- [x] Python Basics Review — Review
+- [x] Python Basics Quiz — Quiz
 
-## Install Python — 0 / 5
+## Install Python — 5 / 5
 
-- [ ] Installing Python and Running Code Locally — Theory
-- [ ] Python Installation Review — Review
-- [ ] Python Installation Quiz — Quiz
+- [x] Installing Python and Running Code Locally — Theory
+- [x] Python Installation Review — Review
+- [x] Python Installation Quiz — Quiz
 
-## Loops and Sequences — 19 / 31
+## Loops and Sequences — 31 / 31
 
-- [ ] Working with Loops and Sequences — Theory
+- [x] Working with Loops and Sequences — Theory
 - [x] Build a Pin Extractor — Workshop
-- [ ] Build a Number Pattern Generator — Lab
-- [ ] Loops and Sequences Review — Review
-- [ ] Loops and Sequences Quiz — Quiz
+- [x] Build a Number Pattern Generator — Lab
+- [x] Loops and Sequences Review — Review
+- [x] Loops and Sequences Quiz — Quiz
 
 ## Dictionaries and Sets — 44 / 50
 
@@ -153,32 +153,37 @@ Build a Musical Instrument Inventory
 Build an Employee Profile Validator — Workshop
 
 Current progress: Step 11, using `.upper()` to create `name_badge` from `clean_name`. Continue with the next workshop step; do not mark the project completed until all steps are finished.
+## Current learning state
+
+### Last completed project
+
+Build a Number Pattern Generator — Lab
+
+- All 7 tests passed.
+- Changes committed and pushed to GitHub.
+
+### Current project
+
+Build a User Configuration Manager — Certification Project
+
+Status: Not started.
 
 ### Concepts covered
 
-- Classes and instances
-- `__init__` — initializing an object
-- `self` — accessing the current object's data
-- Attributes and methods
-- Creating instances and calling methods
-- String methods and operations in the Employee Profile Validator: `.find()`, slicing, `in`, `.strip()`, `.title()`, `.lower()`, and `.upper()`
+- Dictionaries (`dict`): keys, values, adding, updating and deleting entries.
+- Tuples (`tuple`): accessing elements by index.
+- String methods: `.lower()` and `.capitalize()`.
+- Membership checks using `in`.
+- Functions, conditional statements and return values.
 
-### Current sticking points
+### Learning approach
 
-The purpose of `self` was initially unclear. It became clearer after comparing instance methods with ordinary functions. Reinforce the concept through practice in future exercises.
+- Practice-first, one small step at a time.
+- Explain unfamiliar syntax before using it.
+- Do not provide the complete solution unless explicitly requested.
+- Confirm understanding before moving to the next concept.
 
 ### Next assignment
 
-Continue Build an Employee Profile Validator — Workshop from the current step. After completing it, continue in the verified freeCodeCamp sequence; do not jump ahead to Build a Travel Weather Planner or Build a Planet Class.
-
-## Session protocol
-
-After each session:
-
-1. Mark completed assignments with `[x]`.
-2. Update the current assignment and next step.
-3. Record important concepts and unresolved questions briefly.
-4. Compare the course progress with freeCodeCamp when practical.
-5. Keep detailed code and Git history in the repository; do not copy entire lessons into this file.
-
-When starting a new chat, provide this file and the current assignment instructions. Continue from the recorded next step without repeating completed work.
+Build a User Configuration Manager — Certification Project.
+Start with `add_setting()`, then implement the remaining functions.
