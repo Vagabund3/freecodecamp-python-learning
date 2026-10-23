@@ -57,7 +57,7 @@
 - [x] Build a Medical Data Validator — Workshop
 - [ ] Dictionaries and Sets Review — Review
 - [ ] Dictionaries and Sets Quiz — Quiz
-- [ ] Build a User Configuration Manager — Certification Project
+- [~] Build a User Configuration Manager — Certification Project
 
 ## Error Handling — 0 / 7
 
@@ -146,17 +146,6 @@
 
 ### Last completed project
 
-Build a Musical Instrument Inventory
-
-### Current project
-
-Build an Employee Profile Validator — Workshop
-
-Current progress: Step 11, using `.upper()` to create `name_badge` from `clean_name`. Continue with the next workshop step; do not mark the project completed until all steps are finished.
-## Current learning state
-
-### Last completed project
-
 Build a Number Pattern Generator — Lab
 
 - All 7 tests passed.
@@ -166,15 +155,24 @@ Build a Number Pattern Generator — Lab
 
 Build a User Configuration Manager — Certification Project
 
-Status: Not started.
+Status: In progress.
+
+### Completed functions
+
+- `add_setting(settings, setting)` — implemented and tested.
+- `update_setting(settings, setting)` — implemented and tested.
+
+### Next step
+
+Implement `delete_setting(settings, key)`.
 
 ### Concepts covered
 
-- Dictionaries (`dict`): keys, values, adding, updating and deleting entries.
+- Dictionaries (`dict`): keys, values, adding and updating entries.
 - Tuples (`tuple`): accessing elements by index.
-- String methods: `.lower()` and `.capitalize()`.
+- String methods: `.lower()`.
 - Membership checks using `in`.
-- Functions, conditional statements and return values.
+- Functions, conditional statements, `return`, and f-strings.
 
 ### Learning approach
 
@@ -185,5 +183,4 @@ Status: Not started.
 
 ### Next assignment
 
-Build a User Configuration Manager — Certification Project.
-Start with `add_setting()`, then implement the remaining functions.
+Continue Build a User Configuration Manager — Certification Project with `delete_setting(settings, key)`.
