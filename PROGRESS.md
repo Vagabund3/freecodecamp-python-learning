@@ -2,9 +2,9 @@
 
 ## Общий прогресс
 
-- **Прогресс на freeCodeCamp:** 233 / 579 шагов
+- **Прогресс на freeCodeCamp:** 248 / 579 шагов
 - **Последнее обновление:** 2026-10-20
-- **Последнее завершённое задание:** Build a Number Pattern Generator — Lab
+- **Последнее завершённое задание:** Debug an ISBN Validator — Lab
 - **Следующее задание:** Build a User Configuration Manager — Certification Project
 
 ## Статусы
@@ -52,19 +52,19 @@
 
 ## Dictionaries and Sets — 44 / 50
 
-- [ ] Working with Dictionaries and Sets — Theory
-- [ ] Working with Modules — Theory
+- [x] Working with Dictionaries and Sets — Theory
+- [x] Working with Modules — Theory
 - [x] Build a Medical Data Validator — Workshop
-- [ ] Dictionaries and Sets Review — Review
-- [ ] Dictionaries and Sets Quiz — Quiz
-- [~] Build a User Configuration Manager — Certification Project
+- [x] Dictionaries and Sets Review — Review
+- [x] Dictionaries and Sets Quiz — Quiz
+- [x] Build a User Configuration Manager — Certification Project
 
 ## Error Handling — 0 / 7
 
-- [ ] Understanding Error Handling — Theory
-- [ ] Debug an ISBN Validator — Lab
-- [ ] Error Handling Review — Review
-- [ ] Error Handling Quiz — Quiz
+- [x] Understanding Error Handling — Theory
+- [x] Debug an ISBN Validator — Lab
+- [x] Error Handling Review — Review
+- [x] Error Handling Quiz — Quiz
 
 ## Classes and Objects — 13 / 71
 
